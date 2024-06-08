@@ -11,8 +11,4 @@ data_file 'WEAPONINFO_FILE' 'metas/**/weapons.meta'
 
 client_script 'cl_weaponNames.lua'
 
-escrow_ignore {
-    'cl_weaponNames.lua',
-}
-
 lua54 'yes'
