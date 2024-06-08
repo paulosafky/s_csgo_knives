@@ -7,7 +7,8 @@
 
 ## SCREENSHOTS
 https://r2.fivemanage.com/nhkzJBh3RURvPD2YZSDQn/image2.png
-https://r2.fivemanage.com/nhkzJBh3RURvPD2YZSDQn/karambits.png
+![Karambits](https://r2.fivemanage.com/nhkzJBh3RURvPD2YZSDQn/karambits.png)
+
 https://r2.fivemanage.com/nhkzJBh3RURvPD2YZSDQn/bayonets.png
 https://r2.fivemanage.com/nhkzJBh3RURvPD2YZSDQn/butterflys.png
 
